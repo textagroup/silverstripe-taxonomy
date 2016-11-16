@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/taxonomy",
+	"name": "textagroup/silverstripe-taxonomy",
 	"description": "Provide extra taxonomy for cataloguing the data.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "cwp"],
